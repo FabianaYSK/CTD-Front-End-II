@@ -1,0 +1,21 @@
+* {
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+body {
+    background-color: wheat;
+    font: normal 14pt Arial;
+}
+
+form {
+    background-color: lightblue;
+    border-radius: 10px;
+    position: relative;
+    padding: 10px;
+    height: 55px;
+    width: 500px;
+    margin: 0 auto;
+    box-shadow: 5px 5px 10px #0C1A21;
+}
